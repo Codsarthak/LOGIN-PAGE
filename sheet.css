@@ -1,0 +1,30 @@
+.container{
+    
+    height: 250px;
+    width: 300px;
+    background-image: url(../IMG_20200120_134455.jpg);
+    align-content: center;
+      margin-inline: AUTO;
+      display: GRID;
+        place-content: CENTER;
+      
+}
+
+.box{
+background-color: rgb(161, 150, 150);
+border: 1PX SOLID navy;
+height: 150px;
+text-align: center;
+
+
+}
+form{
+    height: 150px;
+     align-content: center;
+     color: rgb(60, 170, 170);
+    
+}
+body{
+    background-image: url(../images....jpeg);
+       margin: 150PX 150px 150PX;
+}
